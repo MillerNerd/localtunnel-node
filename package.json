@@ -4,6 +4,6 @@
         "localtunnel": "2.0.2"
     },
     "scripts": {
-        "start": "lt -p 3000 -s millernerd -h npm"
+        "start": "lt -p 3000 -s millernerd -h npm`"
     }
 }
